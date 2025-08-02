@@ -31,10 +31,10 @@ This is the **React-based frontend** of the Sales & Revenue Analytics Dashboard,
 ## 📸 Demo UI (Screenshots)
 
 ### Upload and Summary View  
-![Upload and Summary](./assets/Screenshot-Upload-Summary.png)
+![Upload and Summary](./public/dashboard-screeenshot-charts.png)
 
 ### Charts: Revenue Trend, Product-wise, Region-wise  
-![Charts View](./assets/Screenshot-Charts.png)
+![Charts View](./public/dashboard-screenshot-summary.png)
 
 > Replace `./assets/` with your actual image paths in the repo.
 
