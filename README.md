@@ -55,5 +55,5 @@ This is the **React-based frontend** of the Sales & Revenue Analytics Dashboard,
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/sales-dashboard.git
+git clone https://github.com/PUNITKUMARGAUTAM/sales-dashboard-frontend
 cd sales-dashboard/frontend
